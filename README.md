@@ -1,0 +1,2 @@
+# fairtradeconetc
+revisão do projeto
